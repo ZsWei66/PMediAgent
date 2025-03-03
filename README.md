@@ -1,2 +1,2 @@
 # PMediAgent
-PMediAgent: A Strategy-Based Chinese People Mediation Dialogue Agent
+PMediAgent: A Strategy-Based Chinese People's Mediation Dialogue Agent
